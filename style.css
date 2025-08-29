@@ -63,7 +63,7 @@ padding: 10px;
     background-color:green;
     
     border: none;
-    width:300px;
+    width:200px;
     color: white;
     height: 40px;
     align-items: center;
@@ -72,7 +72,7 @@ padding: 10px;
 .btn-1{
     
     border: none;
-    width: 250px;
+    width: 200px;
     color:gray;
     height: 40px;
 }
@@ -87,7 +87,7 @@ color: gray;
     border-radius: 10px;
     box-shadow: 0 25px 40px rgb(0, 0, 0, 0.1);
     
-    width: 500px;
+    width: 450px;
     column-gap: 50px;
     row-gap: 50px;
 
